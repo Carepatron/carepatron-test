@@ -82,15 +82,16 @@ Should yield a score of **2**
 
 ### Existing Home page
 
-TBC
+![](https://github.com/davidpene/carepatron-test/blob/master/docs/Snip20200624_46.png)
 
 ### New Risk Assessment page
 
-TBC
+![](https://github.com/davidpene/carepatron-test/blob/master/docs/Snip20200624_48.png)
+![](https://github.com/davidpene/carepatron-test/blob/master/docs/Snip20200624_49.png)
 
 ### Risk Assessment Result page
 
-TBC
+![](https://github.com/davidpene/carepatron-test/blob/master/docs/Snip20200624_50.png)
 
 ## Things to note
 
