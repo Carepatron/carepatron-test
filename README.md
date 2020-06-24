@@ -27,7 +27,7 @@ Simply an SPA (React & Typescript) and an API (.Net Core)
 - `cd ./api`
   - `dotnet restore`
   - `dotnet build`
-  - `dotnet run`
+  - `dotnet run --project ./api/api.csproj`
 - `cd ./ui`
   - `npm i`
   - `npm run start`
